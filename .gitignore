@@ -1,0 +1,12 @@
+.*
+__*
+~*
+
+snippets/
+data/ini_files/
+data/archive/
+data/already_converted/
+data/other_conf/
+data/test_files/
+src/code_count.py
+demo/out_files/
